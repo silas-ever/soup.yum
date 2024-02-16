@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Soup.Yum
+
+This website aims to provide users with a personalized soup experience.
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
